@@ -1,3 +1,4 @@
+package com.isensen.test;
 import org.junit.Test;
 
 import static junit.framework.Assert.assertEquals;
